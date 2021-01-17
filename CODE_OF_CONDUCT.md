@@ -1,5 +1,5 @@
 
-# Guía y código de conducta
+# Guía y código de conducta - aka "Code Of Conduct"
 
 Al participar en las actividades y medios de comunicación del grupo, usted esta de acuerdo en seguirlas siguientes reglas básicas.
 
